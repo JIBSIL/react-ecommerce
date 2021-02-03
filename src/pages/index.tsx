@@ -34,13 +34,6 @@ const Home = () => {
         }}
       />
 
-      <SimpleHeading title="On sale Products" level={2} />
-      <ProductListRenderer
-        skeleton
-        skeletonCount={4}
-        products={saleProducts}
-        breakpoints={{ xl: 6, lg: 6, md: 6, sm: 12, xs: 24 }}
-      />
     </MainLayout>
   );
 };
