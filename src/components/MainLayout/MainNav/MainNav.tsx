@@ -15,6 +15,7 @@ const MainNav = () => {
       <Row justify="space-between">
         <Col span={2}>
           <div className="left-nav-items">
+            <p>Grade 3 Shop</p>
             <Link href="/">
               <a>Home</a>
             </Link>
