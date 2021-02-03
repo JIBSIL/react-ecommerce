@@ -23,7 +23,7 @@ const OrderSummary: React.FC<OrderSummaryProps> = ({
       <Title level={3}>Order Summary</Title>
       <div>
         <Text type="secondary">Total</Text>
-        <Text disabled={cartProducts.length === 0}>₱{Number(totalPrice)}</Text>
+        <Text disabled={cartProducts.length === 0}>${Number(totalPrice)}</Text>
       </div>
       <Button
         type="primary"
