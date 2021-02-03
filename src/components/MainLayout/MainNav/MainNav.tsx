@@ -15,8 +15,9 @@ const MainNav = () => {
       <Row justify="space-between">
         <Col span={2}>
           <div className="left-nav-items">
-            <p>Grade 3 Shop</p>
+            <GithubOutlined style={{ fontSize: 25, cursor: 'pointer' }} />
             <Link href="/">
+            </a>
               <a>Home</a>
             </Link>
           </div>
