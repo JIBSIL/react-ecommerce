@@ -17,7 +17,6 @@ const MainNav = () => {
           <div className="left-nav-items">
             <GithubOutlined style={{ fontSize: 25, cursor: 'pointer' }} />
             <Link href="/">
-            </a>
               <a>Home</a>
             </Link>
           </div>
