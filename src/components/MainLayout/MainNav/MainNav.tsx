@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { Layout, Row, Col, Badge } from 'antd';
-import { ShoppingCartOutlined, GithubOutlined } from '@ant-design/icons';
+import { ShoppingCartOutlined, ShoppingOutlined } from '@ant-design/icons';
 import { useCartSelector } from '../../../selectors';
 import './MainNav.less';
 
