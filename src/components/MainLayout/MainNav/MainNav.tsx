@@ -16,7 +16,7 @@ const MainNav = () => {
         <Col span={2}>
           <div className="left-nav-items">
             <a>
-            <GithubOutlined style={{ fontSize: 25, cursor: 'pointer' }} />
+            <ShoppingOutlined style={{ fontSize: 25, cursor: 'pointer' }} />
             </a>
             <Link href="/">
               <a>Home</a>
