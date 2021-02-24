@@ -1,4 +1,4 @@
 React Ecommerce
 
 **Updates (woocommerce) forced:**
-1
+11
