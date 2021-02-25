@@ -3,7 +3,7 @@ import './MainCarousel.less';
 
 const MainCarousel = () => {
   return (
-    <Carousel autoplay>
+//    <Carousel autoplay>
       <div>
         <img src="/images/carousel-demo-images/Image01.png" />
       </div>
