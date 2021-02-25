@@ -22,7 +22,7 @@ const CheckoutList: React.FC<CheckoutListProps> = ({ products }) => {
         return <CheckoutItem product={product} key={product.id} />;
       })}
       <div className="overall-total-price">
-        <p>Write this down on a piece of paper! You are not able to check out on this website.<br></p>
+        <p>Write this down on a piece of paper! You are not able to check out on this website.<br/></p>
         <div>
           TOTAL: <span>${totalPrice}</span>
         </div>
