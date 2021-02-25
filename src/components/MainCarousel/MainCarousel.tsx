@@ -13,7 +13,7 @@ const MainCarousel = () => {
       <div>
         <img src="/images/carousel-demo-images/Image03.png" />
       </div>
-    </Carousel>
+//    </Carousel>
   );
 };
 
